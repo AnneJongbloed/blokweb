@@ -9,7 +9,7 @@ Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat 
 
 De website die ik wil gaan gebruiken is (https://desenio.nl/)
 
-![Breakdownschets](images/breakdown.png)
+![Breakdownschets](https://github.com/AnneJongbloed/blokweb/blob/master/Schermafbeelding%202020-09-01%20om%2010.05.26.png)
 
 ## Bronnenlijst
 1. -bron 1-

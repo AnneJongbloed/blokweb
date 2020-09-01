@@ -1,14 +1,16 @@
 # Procesverslag
-**Auteur:** -Anne Jongbloed-
+**Auteur:** Anne Jongbloed
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
+**Start niveau**
 Mijn start niveau is blauw/rood. Ik wil de lat niet te hoog leggen voor mezelf, omdat ik dan juist fouten ga maken. Het denken in sections enzovoort zie ik opzich wel, maar het doorvoeren in mijn eigen websites vind ik heel lastig.
 
+**Focus**
 Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat meer naar 1B, maar dat weet ik nog niet zeker.
 
+**Website**
 De website die ik wil gaan gebruiken is (https://desenio.nl/)
 
+## Breakdownschets
 ![Breakdownschets](https://github.com/AnneJongbloed/blokweb/blob/master/Schermafbeelding%202020-09-01%20om%2010.05.26.png)
 
 ## Bronnenlijst

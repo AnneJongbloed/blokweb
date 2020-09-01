@@ -10,7 +10,7 @@ Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat 
 De website die ik wil gaan gebruiken is (https://desenio.nl/)
 
 Breakdownschets
-(images/breakdownschets.png)
+(images/breakdownschets.svg)
 
 ## Bronnenlijst
 1. -bron 1-

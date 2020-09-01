@@ -5,7 +5,7 @@
 Mijn start niveau is blauw/rood. Ik wil de lat niet te hoog leggen voor mezelf, omdat ik dan juist fouten ga maken. Het denken in sections enzovoort zie ik opzich wel, maar het doorvoeren in mijn eigen websites vind ik heel lastig.
 
 **Focus**
-Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat meer naar 1B, maar dat weet ik nog niet zeker.
+-Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat meer naar 1B, maar dat weet ik nog niet zeker.-
 
 **Website**
 De website die ik wil gaan gebruiken is (https://desenio.nl/)

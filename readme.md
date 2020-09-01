@@ -9,7 +9,7 @@ Ik weet nog niet precies waar ik mij op ga focussen. Mijn eerste gedachtte gaat 
 
 De website die ik wil gaan gebruiken is (https://desenio.nl/)
 
-![iets](images/breakdownschets.svg)
+![Breakdownschets](images/breakdownschets.svg)
 
 ## Bronnenlijst
 1. -bron 1-

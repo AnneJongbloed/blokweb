@@ -13,7 +13,7 @@ De website die ik wil gaan gebruiken is (https://desenio.nl/)
 ## Breakdownschets
 ![Breakdownschets](https://github.com/AnneJongbloed/blokweb/blob/master/Schermafbeelding%202020-09-01%20om%2010.05.26.png)
 
-## Voortgang 1 (week 1)
+## Voortgang (week 1)
 Het opstarten met frontend vond ik niet zo heel erg. De basis van css snap ik redelijk. Maar voor morgen moet ik de opdracht flexbox inleveren, en daar heb ik toch wel wat moeite mee gehad.
 
 Het waren allemaal verschillende pagina's met tekst die ik moest volgen. Met mijn dyslectie wil ik soms iets te snel lezen of lees ik over woorden heen. Dit heeft ertoe gelijd dat ik in het begin niet verder kwam dan pagina 2. 

@@ -27,14 +27,13 @@ Deze 2 weken stonden vooral in het teken van de basis van html en css weer ophal
 
 We kregen een paar opdrachten om te gaan oefenen met flexbox. Deze oefeningen gingen voor mij best redeleijk. Alleen 2 opdrachten van het kikker spel kwam ik niet uit.
 
-![Breakdownschets](https://github.com/AnneJongbloed/blokweb/blob/master/Schermafbeelding%202020-09-08%20om%2011.00.51.png)
-
-![Breakdownschets](https://github.com/AnneJongbloed/blokweb/blob/master/Schermafbeelding%202020-09-01%20om%2010.05.26.png)
 
 Later kregen we de opdracht om zelf verder te gaan met onze website. Het opstarten heb ik een beetje uitgesteld, omdat ik echt tegen coderen op zat. Maar nu eenmaal aan de slag gaat het best goed. 
 
 ### Hoe sta ik er nu voor?
 Nu ben ik lekker bezig met het coderen van mijn website. Tot nu toe ben ik nog niet tegen hele grote problemen aan gelopen. Ik ben blij dat ik mezelf er toch toe gezet heb om eraan te beginnen, en ik vind het ook uiteindelijk wel mee vallen hoe erg het is.
+
+- [Screenshot 1 - Homepagina Desktop](images/website.png)
 
 
 ## Bronnenlijst

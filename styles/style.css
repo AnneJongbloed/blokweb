@@ -46,6 +46,36 @@ a {
     margin-left: 0;
 }
 
+button{
+    position: absolute;
+    color:black;
+    font-weight: 200;
+    background-color:white;
+    border:none;
+    padding:1em 6em 1em 6em;
+    font-weight:500; 
+    top:65%;
+    left:50%;
+    min-width:auto;
+    transform:translate(-50%, -50%);
+}
+
+/*
+
+button:hover{
+    background-color: #c1c1c1;
+}
+*/
+
+
+
+/*
+
+a:hover {
+    font-weight:600;
+}
+*/
+
 article {
     background-color: #f9f6f4;
     padding: .5em;
@@ -136,9 +166,13 @@ ul {
 }
 
 .tekstshopnu{
-    
     position: absolute;
-    color:red;  
+    color:white;  
+    font-weight:500;    
+    top:50%;
+    left:50%;
+    min-width:auto;
+    transform:translate(-50%, -50%);
 }
 
 
@@ -150,7 +184,11 @@ ul {
     margin-top: 2em;
     margin-right: auto;
     width: 50%;
-    width: 40%;
+}
+
+.container{
+    position:relative;
+    width:100%;
 }
 
 .bestellen {

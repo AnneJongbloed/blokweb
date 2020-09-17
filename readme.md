@@ -36,8 +36,22 @@ Nu ben ik lekker bezig met het coderen van mijn website. Tot nu toe ben ik nog n
 - [Screenshot 1 - Homepagina Desktop](images/website.png)
 
 
+## Agenda
+
+- dingen naast elkaar zetten. Op mobiel bijvoorbeeld 2 en dekstop 4
+- Hoe kun je makkelijker zien nth gebeuren
+- Mag je classes  gebruiken
+- Mag je classes  gebruiken
+- Moet je hamburger laten werken? 
+- Hoe zet je het om in een hamburgermenu
+- flexbox vragen, naast elkaar zetten bijvoorbeeld.
+
+
+
+
 ## Bronnenlijst
-1. -bron 1-
+1. -Sam -
+
 2. -bron 2-
 3. -...-
 

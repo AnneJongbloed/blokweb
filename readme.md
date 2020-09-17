@@ -33,7 +33,7 @@ Later kregen we de opdracht om zelf verder te gaan met onze website. Het opstart
 ### Hoe sta ik er nu voor?
 Nu ben ik lekker bezig met het coderen van mijn website. Tot nu toe ben ik nog niet tegen hele grote problemen aan gelopen. Ik ben blij dat ik mezelf er toch toe gezet heb om eraan te beginnen, en ik vind het ook uiteindelijk wel mee vallen hoe erg het is.
 
-- [Screenshot 1 - Homepagina Desktop](images/website.png)
+- [Screenshot 1 - Homepagina Desktop](images/website.jpeg)
 
 
 ## Agenda

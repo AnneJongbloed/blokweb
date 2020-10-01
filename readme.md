@@ -46,6 +46,16 @@ Nu ben ik lekker bezig met het coderen van mijn website. Tot nu toe ben ik nog n
 - Hoe zet je het om in een hamburgermenu
 - flexbox vragen, naast elkaar zetten bijvoorbeeld.
 
+## Voortgang 2 (week 4/5)
+
+Week 4 ging best wel goed, ik heb de fouten uit mijn website gehaald. En mijn navigatie goed werkend gemaakt. Eind van week 4 kreeg ik een school dip, met daarboven op ook nog veel doktersbezoeken voor buikonderzoeken. Doordat ik zoveel pijn had heb ik school links laten liggen en zat ik  een beetje in een dip. 
+
+Nu dat ik dit schrijf zitten we op donderdag 1 oktober. Het gaat gelukkig al stukken beter en ik probeer school ook weer op te pakken. 
+
+## Agenda
+
+- Meer toelichting over onzichtbare headers
+- JS carrousel toelichting
 
 
 

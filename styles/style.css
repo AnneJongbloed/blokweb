@@ -7,7 +7,6 @@
 }
 
 body {
-    position: relative;
     background-color: white;
 }
 
@@ -19,6 +18,15 @@ p {
     margin-bottom: 1em;
 }
 
+header img{
+    display:block;
+    margin:auto;
+    padding:1em ;
+    height:3em;
+    background-color: white;
+    justify-content: center;
+}
+
 h1 {
     font-family: sans-serif;
     font-weight: 100;
@@ -26,6 +34,25 @@ h1 {
     padding: 1em;
     display: flex;
     justify-content: center;
+}
+
+header h1 {
+    display:none;
+    visibility:hidden;
+    color:red;
+}
+
+header h2{
+    display: flex;
+    justify-content: center;
+    font-family: helvetica;
+    padding: 1em;
+
+    margin:0em;
+    width:100%;
+    font-size: 60%;
+    background-color: #535353;
+    color: white;
 }
 
 h2 {
@@ -37,7 +64,13 @@ h2 {
     font-weight: 100;
 }
 
+li{
+        list-style-type: none;
+}
 
+nav ul{
+flex-wrap:wrap;
+}
 
 a {
     display: block;
@@ -46,51 +79,100 @@ a {
     margin-left: 0;
 }
 
+
+
 button{
-    position: absolute;
     color:black;
     font-weight: 200;
     background-color:white;
     border:none;
     padding:1em 6em 1em 6em;
     font-weight:500; 
-    top:65%;
-    left:50%;
     min-width:auto;
+}
+
+
+
+main section:nth-of-type(1) > h1{
+    Background-color:r;
+    width:100%;
+    font-size:1em;
+}
+
+main img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+}
+
+main h2{
+    margin:0em;
+    color:white;  
+    font-weight:500; 
+    font-size:1.4em;
+    justify-content: center;
+
+}
+
+main section h1 {
+    color:grey;
+    font-size:1.4em;
+    margin-top:1em;
+    padding:0em;
+}
+
+main section:nth-of-type(2){
+    position: relative;
+}
+
+main section:nth-of-type(2) div{
+    Position:absolute;
+    top:50%;
+    left:50%;
     transform:translate(-50%, -50%);
 }
 
-/*
 
-button:hover{
-    background-color: #c1c1c1;
+main section article img{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-top: 2em;
+    margin-right: auto;
+    width: 15em;
+
 }
-*/
 
-
-
-/*
-
-a:hover {
-    font-weight:600;
-}
-*/
-
-article {
-    background-color: #f9f6f4;
+main  section article a{
+    display: flex;
+    text-decoration: none;
+    background-color: #2e5057;
     padding: .5em;
-    margin-top: 1em;
+    color: white;
+    margin-right: .3em;
+    border-radius: .3em;
 }
+
+
+
+
+main section:first-of-type >h1{ 
+    background-color:red;
+    padding:1em;
+    color:white;
+    margin:auto;
+}
+
+
 
 nav {
-    display: inline-flex;
+    flex-wrap:wrap;
     font-family: helvetica;
     font-size: 15px;
-    margin-top: ;
-    position: relative;
     left: 0;
     right: 0;
-    padding: 10px;
+    padding: 1em;
     min-width: 100vw;
     background-color: white;
     border:1px solid  #c1c1c1;
@@ -99,110 +181,36 @@ nav {
 }
 
 nav li {
-    display: inline-flex;
+    display: inline-flex; ??
     justify-content: center;
-    padding-right: 1em;
+    padding-right: 2em;
     margin-bottom: 0;
 
 }
 
 ul {
-    position: relative;
+    flex:wrap;
     display: flex;
     justify-content: center;
     padding: .4em;
-    background-color: ;
     justify-content: center;
     font-family: helvetica;
 }
 
-
-
-
-/* classes */
-
-.levering {
-    display: flex;
-    justify-content: center;
-    font-family: helvetica;
-    padding: 1em;
-    font-size: 60%;
-    background-color: #535353;
+  main article h1{
     color: white;
-    
-
-}
-
-/*logo */
-
-.menu {
-    padding: 1em;
-    background-color: white;
-    display: flex;
     justify-content: center;
-
-}
-
-.menu > img {
-    width: 10em;
-    height: 100%;
-}
-
-/*//////// */
-
-.kortingbanner {
-    color: black;
+    align-items: center;
     background-color: #2e5057;
     height: 5em;
     font-size: 12px;
 }
 
-.shopnu {
-    position: relative;
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-}
-
-.tekstshopnu{
-    position: absolute;
-    color:white;  
-    font-weight:500;    
-    top:50%;
-    left:50%;
-    min-width:auto;
-    transform:translate(-50%, -50%);
-}
 
 
-/* Product section */
-
-.productfoto {
-    display: block;
-    margin-left: auto;
-    margin-top: 2em;
-    margin-right: auto;
-    width: 50%;
-}
-
-.container{
-    position:relative;
-    width:100%;
-}
-
-.bestellen {
-    display: flex;
-    text-decoration: none;
-    background-color: #2e5057;
-    padding: .5em;
-    color: white;
-    margin-right: .3em;
-    border-radius: .3em;
+Main > section article p:last-of-type{
+        font-weight: bold;
 
 }
 
-.vanaf {
-    font-weight: bold;
 
-}

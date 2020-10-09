@@ -49,10 +49,9 @@ header img {
 }
 
 /* geselecteerd voor jou ------------*/
-h1 {
+h2 {
     font-family: sans-serif;
     font-weight: 100;
-    color: white;
     padding: 1em;
     display: flex;
     justify-content: center;
@@ -90,13 +89,14 @@ header h2 {
 }
 
 /* Trending styles ------------------ */
-h2 {
+h3 {
     display: flex;
     justify-content: center;
     margin: 1em;
     font-size: 20px;
     font-family: helvetica;
     font-weight: 100;
+
 }
 
 /* header nav link */
@@ -267,11 +267,11 @@ main section article a {
 
 /* header foto's */
 
-header section ul li img {
+header section ul li a img {
     transition: 2s;
     width: 7em;
     height: 7em;
-    margin-right: 2em;
+    margin-right: ;
     border-radius: 100px 100px 100px 100px;
     align-items: center;
 }
@@ -297,11 +297,11 @@ main img {
 
 
 /* studio dreamer*/
-main h2 {
+main h3 {
     margin: 0em;
     color: white;
     font-weight: 500;
-    font-size: 1.4em;
+    font-size: 2em;
     justify-content: center;
     text-shadow: 2px 2px #333A40;
 
@@ -321,7 +321,7 @@ main section:nth-of-type(1) div {
 }
 
 /* geselecteerd voor jou */
-main section h1 {
+main section h2 {
     color: grey;
     font-size: 1.4em;
     margin-top: 1em;
@@ -333,11 +333,12 @@ main section h1 {
 
 /* artikelen geselecteerd voor jou */
 
-main section article img {
+main section article a img {
     display: flex;
     flex-direction: row;
     margin-left: auto;
     margin-top: 2em;
+    margin-bottom: 1em;
     margin-right: auto;
     width: 15em;
 
@@ -501,7 +502,7 @@ Footer ul li a {
 Footer section:nth-of-type(2) {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-content: center;
     margin-right: 0em;
 }
 */
@@ -514,15 +515,17 @@ Footer > section > article img {
 
 }
 
-Footer section:nth-of-type(2) h1 {
+Footer section:nth-of-type(2) h3 {
     color: black;
     font-size: 1em;
     text-transform: uppercase;
 }
 
-Footer section:nth-of-type(2) h2 {
+Footer section:nth-of-type(2) h4 {
     color: black;
+    font-family: helvetica;
     width: 20em;
+    margin: auto;
     font-size: .6em;
     text-transform: uppercase;
 }

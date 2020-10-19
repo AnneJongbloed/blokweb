@@ -57,13 +57,19 @@ Nu dat ik dit schrijf zitten we op donderdag 1 oktober. Het gaat gelukkig al stu
 - Meer toelichting over onzichtbare headers
 - JS carrousel toelichting
 
+## Voortgang 2 (week 6/7)
+
+De weken vlogen voorbij. Ben mij tijdens week 6 gaan richten om mijn 2e pagina. In het begin was ik vergeten een class op de body te doen, waardoor het heel moeilijk werd om de pagina vorm te geven. Ook liep ik een beetje vast met javascript. 
+
+Op pagina 2 vind je een onderdeel met javascript dat het bedrag berekend wordt. Op internet kon ik alleen maar lastige voorbeelden vinden, en ik maak gewoon snel typ fouten waardoor ik daar echt lang mee bezig was. Uiteindelijk is het met wat hulp wel gelukt, en ben ik verder gegaan met de puntjes op de i zetten.
+
+## Agenda
+
+- Dropdown list maken
 
 
 ## Bronnenlijst
 1. -Sam -
-
-2. -bron 2-
-3. -...-
 
 
 
@@ -76,51 +82,3 @@ Nu dat ik dit schrijf zitten we op donderdag 1 oktober. Het gaat gelukkig al stu
 -screenshot(s) van je eindresultaat-
 
 
-
-## Voortgang 3 (week 6)
-
--same as voortgang 1-
-
-
-
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
-
-
-
-## Voortgang 1 (week 3)
-
-### Stand van zaken
-
--dit ging goed & dit was lastig-
-
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
-
-
-
-## Intake (week 1)
-
-**Je startniveau:** -kies uit zwart, rood óf blauw-
-
-**Je focus:** -kies uit responsive óf surface plane-
-
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
-
-**Screenshot(s):**
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-
-**Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)

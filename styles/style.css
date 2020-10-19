@@ -264,6 +264,13 @@ main section article a {
 
 }
 
+a:hover {
+    color: brown;
+}
+
+main section article a img:hover {
+    border: 2px solid white;
+}
 
 /* header foto's */
 
@@ -301,7 +308,6 @@ main h3 {
     margin: 0em;
     color: white;
     font-weight: 500;
-    font-size: 2em;
     justify-content: center;
     text-shadow: 2px 2px #333A40;
 
@@ -344,6 +350,13 @@ main section article a img {
 
 }
 
+main section:nth-of-type(3) article div h3 {
+    font-family: helvetica;
+    color: red;
+    text-shadow: none;
+    color: white;
+}
+
 
 section:nth-of-type(2) {
     display: grid;
@@ -365,7 +378,7 @@ section:nth-of-type(3) {
 
 
 main > section:nth-of-type(3) img {
-    width: 95%
+    width: 95%;
 }
 
 
@@ -375,38 +388,23 @@ main > section:nth-of-type(3) article {
 
 main > section:nth-of-type(3) article > div {
     Position: absolute;
-    top: 80%;
-    font-size: clamp(1rem, 1vw, 2rem);
+    width: 100%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 
 }
 
 
-main > section:nth-of-type(3) article > div h2 {
+main > section:nth-of-type(3) article > div a {
     text-shadow: none;
     text-transform: uppercase;
     Position: absolute;
-    font-size: clamp(1rem, 2.0vw, 2rem);
-    width: 10em;
-    top: 100%;
+    top: %;
     left: 50%;
-    transform: translate(-50%, -0%);
-
 }
 
-main > section:nth-of-type(3) article > div > a {
-    background-color: white;
-    color: grey;
-    width: 7em;
-    margin-top: 1vw;
-    padding: .5em;
-    justify-content: center;
-    Position: absolute;
-    left: 50%;
-    transform: translate(-50%, 100%);
 
-}
 
 
 
@@ -460,11 +458,13 @@ button {
 
 /* FOOTER------------------------------------- */
 
+footer {}
 
 Footer > section {
     display: flex;
-    padding: 2em;
+    padding: 1em;
     margin: 0em;
+    width: 100%;
     background-color: #f6f6f6;
     justify-content: space-around;
 
@@ -475,6 +475,7 @@ Footer ul {
     flex-direction: row;
     text-align: center;
     margin: 0;
+    padding: 0em;
 
 
 }
@@ -495,6 +496,7 @@ Footer ul li a {
     flex-direction: column;
     text-align: center;
     text-transform: uppercase;
+    font-size: .6em;
 }
 
 
@@ -549,7 +551,6 @@ footer section:nth-of-type(2) {
     background-color: #f6f6f6;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-top: 0em;
     padding-bottom: 6em;
     align-items: center;
     text-align: center;
@@ -600,9 +601,12 @@ footer section:nth-of-type(2) h1 {
 */
 
 footer section:nth-of-type(2) h2 {
-    width: 40em;
     margin: auto;
 
+}
+
+footer:first-of-type article {
+    margin-bottom: 3em;
 }
 
 form {
@@ -617,7 +621,7 @@ input {
     padding: 1em;
     margin-top: 1em;
     color: red;
-    width: 20vw;
+    width: 70vw;
     text-align: center;
 }
 
@@ -642,6 +646,7 @@ footer li {
     font-weight: 100;
     margin-bottom: 1em;
 }
+
 
 /*
 footer li:last-of-type{
@@ -679,43 +684,80 @@ footer li:last-of-type{
 
 .posterpagina main section:nth-of-type(2) h1 {
     color: black;
-    margin: 0;
-
+    margin-top: 1em;
+    margin-bottom: .3em;
+    font-family: helvetica;
+    font-weight: 400;
 }
 
 .prijs {
-    color: red;
+    color: black;
     margin: 0;
-
-    font-size: 3em;
+    font-size: clamp(1rem, 2.5vw, 2.5rem)
 }
 
 
 
-.posterpagina main section:nth-of-type(3) {
-    position: fixed;
-    width: 100%;
-    height: 0;
-    padding: 0em;
-    margin: 0em;
+.posterpagina main section:nth-of-type(3) form {
+    align-items: flex-start;
+    margin-left: 2em;
 }
 
 
-.posterpagina main section:nth-of-type(3) button {
-    position: relative;
-    z-index: ;
-    top: 0em;
-    border-top: 20px solid #f6f6f6;
-    padding: 2em;
-    width: 100%;
-    height: 3em;
+.posterpagina main > a {
+    color: blue;
+    font-size: .8em;
+    display: flex;
+    flex-direction: row;
+    padding: .4em;
+    padding-left: 3em;
+}
+
+.posterpagina main > a > img {
+    width: 4em;
     margin: 0em;
-    cursor: ;
-    background-color: black;
-    color: white;
+    padding-right: 2em;
+    align-items: flex-start;
+    align-content: flex-start;
+
+
+}
+
+.posterpagina section:nth-of-type(4) {
+    border-top: 1px solid grey;
+    padding: 3em;
+    padding-top: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.posterpagina section:nth-of-type(4) h2 {
+    color: black;
+    font-weight: 400;
+    font-size: 1em;
+    margin-bottom: 1em;
+
+}
+
+.posterpagina section:nth-of-type(4) p {
+    color: black;
+    text-align: left;
+}
+
+
+label {
+    font-family: helvetica;
+    font-weight: 100;
     text-transform: uppercase;
-
+    margin: .4em;
 }
+
+select {
+    width: 70vw;
+    padding: .8em;
+}
+
 
 
 /* @media */
@@ -730,14 +772,22 @@ footer li:last-of-type{
     }
 }
 
-@media (max-width:862px) {
+@media (max-width:700px) {
     section:nth-of-type(2) {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
-
+    Footer ul li a {
+        font-size: .5em;
+    }
 }
 
+@media (min-width:862px) {
+    section:nth-of-type(2) input {
+        width: 35vw;
+    }
+
+}
 
 @media (max-width:532px) {
     section:nth-of-type(2) {
@@ -753,7 +803,7 @@ main section:first-of-type > h1 {
 }
 
 @media (min-width:1147px) {
-    button {
+    header button {
         display: none;
     }
 }
@@ -777,6 +827,13 @@ main section:first-of-type > h1 {
         display: none;
     }
 }
+
+@media (max-width:849px) {
+    footer section:nth-of-type(2) {
+        grid-template-columns: 1fr;
+    }
+}
+
 
 
 @media (max-width:743px) {
@@ -842,10 +899,9 @@ main section:first-of-type > h1 {
 
 }
 
-
-main > section:nth-of-type(3) article > div > a {
-    font-size: clamp(1.1rem, 2.6vw, 2.6rem);
-    transform: translate(-50%, 50%);
-}
+@media (max-width:900px) {
+    main a {
+        padding: .5em 1em .5em 1em;
+    }
 
 }
